@@ -1,0 +1,22 @@
+.sidebar {
+  float: right;
+  width: 15%;
+  margin-left: 20px;
+  background: gold;
+  height: 1400px;
+  padding: 12px;
+}
+
+.column {
+  float: left;
+  width: 26.6667%;
+  margin: 5px;
+}
+
+img {
+  max-width: 100%;
+}
+
+div p {
+  padding: 12px;
+}
