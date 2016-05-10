@@ -10,11 +10,15 @@
 .column {
   float: left;
   width: 26.6667%;
-  margin: 5px;
+  margin: 40px;
+  padding: 20px;
+  border: 2px solid #99FF00;
+  background-color: turquoise;
 }
 
 img {
   max-width: 100%;
+  padding: 10px;
 }
 
 div p {
